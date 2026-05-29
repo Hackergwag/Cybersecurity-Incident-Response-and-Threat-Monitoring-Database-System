@@ -1,1 +1,1 @@
-
+This folder contains all visual assets for the MIT802 Cybersecurity Incident Response and Threat Monitoring Database System project, including the Entity Relationship Diagram (ERD), DDL execution output, DML data insertion outputs, and SQL query results screenshots used for documentation and analysis.
