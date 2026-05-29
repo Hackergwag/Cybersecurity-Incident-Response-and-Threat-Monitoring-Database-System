@@ -102,9 +102,28 @@ Example queries include:
 
 - <b>Windows 10</b>
 
+<h2>Learning Outcomes</h2>
+This project strengthened practical understanding in:
+
+- <b>Database modeling</b>
+- <b>SQL implementation</b>
+- <b>Relational database management</b>
+- <b>Cybersecurity data organization</b>
+- <b>Security incident tracking systems</b>
+
 <h2>Conclusion</h2>
 The project successfully demonstrates the design and implementation of a Cybersecurity Incident Response and Threat Monitoring Database System suitable for Security Operations Center environments. The database structure supports efficient management of incidents, vulnerabilities, analysts, assets, and remediation activities using relational database technologies.
 <br />
+
+<h2>Repository Structure and Files</h2>
+This repository contains the complete project documentation and implementation files for the Cybersecurity Incident Response and Threat Monitoring Database System. Included in the repository are the README documentation file, the full assignment report in PDF format, the SQL implementation scripts contained in the database.sql file, the Entity Relationship Diagram (ERD), and screenshots showing the execution outputs of the DDL, DML, and SQL query operations used throughout the project.
+<br />
+
+<h2>Author</h2>
+
+Robert Iroha
+
+MIT802 – Database Systems
 
 
 <!--
